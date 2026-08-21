@@ -1,6 +1,24 @@
 ## Bracket for ZuluSCSI with 3.5" hard drive holes
 ### Designed Specifically to align the SCA connector on the ZuluSCSI Wide SCA board, but can be used with other ZuluSCSI boards
 
+### Rev 2026
+Directory: ZuluSCSI-Wide-SCA-pcb-direct [rev 2026a+]
+
+This FreeCAD design is for the ZuluSCSI Wide SCA rev 2026 which directly connects to an SCA receptacle using the PCB edge of the ZuluSCSI.
+The brackets go on the bottom of the board while the shroud goes on the top, chip side, of the board.
+The screws go through the shroud and into the bracket on the SCA side. On the SD/USB side screws will probably need washers before going
+through ZuluSCSI into the brackets on the bottom.
+
+
+### Direct 50
+Directory: ZuluSCSI-Compact-with-SCA-Direct-50
+
+This FreeCAD design is specifically for a narrow compact soldered to an SCA adapter directly.
+
+
+### Rev 2025
+Directory: ZuluSCSI-Wide-SCA-works-with-non-SCA-too
+
 These are FreeCAD designs made for 3D printing and include the STL files for
 the left and right bracket. Both brackets are have labels SCSI and SD
 which correspond to the orientation of the ZuluSCSI. SCSI label should be 
