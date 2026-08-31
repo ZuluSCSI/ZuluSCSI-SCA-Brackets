@@ -2,7 +2,7 @@
 ### Designed Specifically to align the SCA connector on the ZuluSCSI Wide SCA board, but can be used with other ZuluSCSI boards
 
 ### Rev 2026
-Directory: ZuluSCSI-Wide-SCA-pcb-direct [rev 2026a+]
+Directory: ZuluSCSI-Wide-SCA-pcb-direct-rev2026+
 
 This FreeCAD design is for the ZuluSCSI Wide SCA rev 2026 which directly connects to an SCA receptacle using the PCB edge of the ZuluSCSI.
 The brackets go on the bottom of the board while the shroud goes on the top, chip side, of the board.
